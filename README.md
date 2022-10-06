@@ -1,6 +1,10 @@
 # Code with comments from React lesson 06/10-22
 ### Peruse the repository to your hearts content.
-The files in focus here is all inside the src folder
+The files in focus here is all inside the src folder.
+Have a look at:
+ - App.js
+ and the components directory
+ - components/
 
 # How to download files
 1. Press the green code button, and copy the URL link
@@ -11,3 +15,5 @@ The files in focus here is all inside the src folder
 5. Wait for the repository to download
 6. You should now have a new folder with the repository name
 7. Open this folder in VS Code
+8. run
+ - npm install
